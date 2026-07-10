@@ -1,7 +1,7 @@
 {
   "name": "product-image-studio",
   "version": "0.1.0",
-  "description": "A browser-based product image editor for ecommerce photos, callouts, dimensions, cutouts, and exports.",
+  "description": "Open-source ecommerce product photo editor for Shopify images, callouts, dimension annotations, cutouts, and PNG/JPG exports.",
   "license": "MIT",
   "type": "module",
   "scripts": {

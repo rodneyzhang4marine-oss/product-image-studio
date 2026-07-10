@@ -1,8 +1,13 @@
-# Product Image Studio
+# Product Image Studio: Open-Source Ecommerce Product Photo Editor for Shopify Images, Callouts, Dimensions, and Cutouts
 
-Product Image Studio is an open-source, browser-based editor for ecommerce product images. It helps you clean up product photos, create callouts, add engineering-style dimensions, align text boxes, remove backgrounds, and export listing-ready PNG/JPG images.
+Product Image Studio is an open-source, browser-based ecommerce product photo editor for Shopify, Amazon, independent stores, and B2B product listings. It helps sellers and product teams clean up product photos, remove backgrounds, create feature callouts, add engineering-style dimensions, align text boxes, and export listing-ready PNG/JPG images.
 
 This repository is a public, generic version of an internal product-image workflow tool. It does not include private product photos, local file paths, brand-specific templates, or store-specific upload credentials.
+
+## Tutorials and Build Notes
+
+- YouTube channel: [RodneyZ](https://www.youtube.com/@RodneyZ)
+- Bilibili video: [Product Image Studio workflow video](https://www.bilibili.com/video/BV1o5M76NEe5/?spm_id_from=333.1387.homepage.video_card.click)
 
 ## Features
 
@@ -95,11 +100,16 @@ MIT License. See [LICENSE](./LICENSE).
 
 ---
 
-# Product Image Studio 中文说明
+# Product Image Studio 中文说明：开源电商产品图编辑器，适合 Shopify 图片、产品标注、尺寸线和抠图
 
-Product Image Studio 是一个开源的浏览器端产品图编辑工具，适合电商产品图、工业产品说明图、Shopify/独立站详情图等场景。它可以帮助你完成抠图、裁剪、旋转、标注、尺寸线、文字框、透明底导出等工作。
+Product Image Studio 是一个开源的浏览器端电商产品图编辑工具，适合 Shopify、Amazon、独立站、B2B 产品页、工业产品说明图等场景。它可以帮助卖家和产品团队完成抠图、裁剪、旋转、产品卖点标注、工程尺寸线、文字框、透明底导出和白底图导出等工作。
 
 这个仓库是从内部图片工作流工具整理出的通用开源版本，不包含私有产品图片、本地路径、品牌专用模板或店铺上传凭证。
+
+## 教程和项目视频
+
+- YouTube 频道：[RodneyZ](https://www.youtube.com/@RodneyZ)
+- Bilibili 视频：[Product Image Studio 工作流视频](https://www.bilibili.com/video/BV1o5M76NEe5/?spm_id_from=333.1387.homepage.video_card.click)
 
 ## 功能
 
